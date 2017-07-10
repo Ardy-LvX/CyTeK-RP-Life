@@ -89,10 +89,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
+	{youtube: "TJUVNg5zxAs", name: "Halsey - Colors (Audien Remix)"},
 ];
 
 /*Random music order?*/
@@ -100,16 +97,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and songs are from Touhou?"
+	"Visit CyTeK-HQ.com/garrysmod for critical info on the server!",
+	"Enjoy the singleplayer/multiplayer experience!",
+	"Donations are welcome! Used money from own pocket for this server."
 ];
 
 /*Random message order?*/
