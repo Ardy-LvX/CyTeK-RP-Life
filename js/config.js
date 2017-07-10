@@ -90,6 +90,12 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "TJUVNg5zxAs", name: "Halsey - Colors (Audien Remix)"},
+	{youtube: "R_kkbqxq26Y", name: "Troye Sivan - Youth (Gryffin Remix)"},
+	{youtube: "P3dpZIBL4DY", name: "Elephante - Closer ft. Bishøp [Premiere]"},
+	{youtube: "a52Ul2AM92c", name: "Galantis - No Money"},
+	{youtube: "awimSQD2Dyo", name: "Mako - Our Story [Exclusive Premiere]"},
+	{youtube: "SMs0GnYze34", name: "DJ Snake ft. Justin Bieber - Let Me Love You"},
+	{youtube: "ALZHF5UqnU4", name: "Marshmello - Alone"},
 ];
 
 /*Random music order?*/
@@ -97,7 +103,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 5;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -106,7 +112,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Visit CyTeK-HQ.com/garrysmod for critical info on the server!",
 	"Enjoy the singleplayer/multiplayer experience!",
-	"Donations are welcome! Used money from own pocket for this server."
+	"Donations are welcome! Used money from own pocket for this server.",
 ];
 
 /*Random message order?*/
