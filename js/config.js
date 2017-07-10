@@ -18,7 +18,7 @@ var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
@@ -46,7 +46,7 @@ Avaiable options:
 You can add custom backgrounds
 Just make sure it is at webm VP8 format 
 (Put the files in the backgrounds/videos folder)*/
-var l_background = "glimmering.webm";
+var l_background = "aurora.webm";
 
 /*(Image-background only)
 Place one or more images
