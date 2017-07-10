@@ -46,7 +46,7 @@ Avaiable options:
 You can add custom backgrounds
 Just make sure it is at webm VP8 format 
 (Put the files in the backgrounds/videos folder)*/
-var l_background = "colorfulburst.webm";
+var l_background = "bokehlens.webm";
 
 /*(Image-background only)
 Place one or more images
