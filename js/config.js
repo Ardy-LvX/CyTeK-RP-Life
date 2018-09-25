@@ -18,7 +18,7 @@ var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
